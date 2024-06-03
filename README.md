@@ -67,3 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel11-react-inertia
 # laravel11-react-inertia
 # laravel11-react-inertia
+# laravel11-react-inertia
